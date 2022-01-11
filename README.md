@@ -2,7 +2,7 @@
 
 
 - 🎓 Graduating in System Analysis and Development at UNINTER
-- 📚 I'm currently developing my C# and .NET skills
+- 📚 I'm currently developing myself in nodeJS
 
 <div>
   <a href="https://github.com/thi-costa">
