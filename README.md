@@ -41,6 +41,12 @@
   </br>
   </br>
 </div>
+
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
  
   ## 🗣️ Contact me 📩
   
