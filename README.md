@@ -22,7 +22,7 @@
   
   <p >
     <a href="https://github.com/thi-costa"><img height="200em" width="49%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thi-costa&theme=solarized_dark"/></a>
-    <a href="https://github.com/thi-costa"><img height="200em" width="49%" alt="Thiago Costa commit by time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thi-costa&theme=solarized_dark"/></a>
+    <a href="https://github.com/thi-costa"><img height="200em" width="49%" alt="Thiago Costa commit by time" src="https://github-profile-summary-cards-1cxn1hxbe-vn7n24fzkq.vercel.app/api/cards/productive-time?username=thi-costa&theme=solarized_dark&utcOffset=-3"/></a>
   </p>
 
 </div>
