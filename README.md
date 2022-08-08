@@ -53,10 +53,6 @@
 <!-- TODO-IST:END -->
 
 
-
-## Recent Activity
-<!--START_SECTION:activity-->
-
  
 ## 🗣️ Contact me 📩
   
