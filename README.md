@@ -49,5 +49,7 @@
   <a href="https://www.linkedin.com/in/thiago-da-silva-costa-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=thi-costa" target="_blank"></a>  
 </div>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=thi-costa.visitor-badge&left_color=green&right_color=blue)
+
 
 ![snake gif](https://github.com/thi-costa/thi-costa/blob/output/github-contribution-grid-snake.svg)
