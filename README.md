@@ -1,28 +1,29 @@
 ## 👱🏻‍♂️ Hi! I am Thiago! 👋
 
 -   🎓 Graduating in System Analysis and Development at UNINTER
+-   📜 Enrolled in Master Degree in Strucutral Engineering at USP (theme: Numerical Calculus with AI)
 -   📚 I'm currently developing myself in nodeJS
--   🧑🏻‍💻 Open to work remotely as internship or junior developer
+-   🧑🏻‍💻 Open to work remotely as internship, junior developer or as web developer freelancer
 
-<p align="center"> <a href="https://github.com/thi-costa"> <img alt="Thiago's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thi-costa&hide_border=true&theme=merko&stroke=00" width = "80%" /> </a> </p>
+<p align="center"> <a href="https://github.com/thi-costa"> <img alt="Thiago's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thi-costa&hide_border=true&theme=garden&stroke=00" width = "80%" /> </a> </p>
 
 ## 😺 GitHub Stats 📊
 
-<div>
-  <p align="center">
-    <a href="https://github.com/thi-costa"><img height="200em" width="59%" alt="Thiago Costa Github Stats" src="https://github-readme-stats.vercel.app/api?username=thi-costa&show_icons=true&count_private=true&theme=merko&hide_border=true"/></a>
-    <a href="https://github.com/thi-costa"><img height="200em" width="39%" alt="Thiago Costa Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thi-costa&hide_border=true&langs_count=8&count_private=true&layout=compact&theme=merko&hide=css,makefile,dockerfile"/></a>
+<div align="center">
+
+
+<a width="98%" href="https://github.com/thi-costa/"><img alt="Thiago Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thi-costa&theme=solarized_dark" /></a>
+<br/>
+
+<p >
+    <a href="https://github.com/thi-costa"><img height="200em" width="49%" alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thi-costa&theme=solarized_dark"/></a>
+    <a href="https://github.com/thi-costa"><img height="200em" width="49%" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thi-costa&theme=solarized_dark"/></a>
   </p>
-    
-  <br/>
-  <b>Note:</b> The "Most Used Languages" is a metric of the languages I have used most in my public repositories. It doesn't reflect directly my skill level in each language.
-  <br/>
-
-<br/>
-<br/>
-
-<a href="https://github.com/thi-costa/"><img alt="Thiago Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thi-costa&bg_color=0a0f0b&color=68b587&line=abd200&point=FFFFFF&hide_border=true&area=true" /></a>
-<br/>
+  
+  <p >
+    <a href="https://github.com/thi-costa"><img height="200em" width="49%" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thi-costa&theme=solarized_dark"/></a>
+    <a href="https://github.com/thi-costa"><img height="200em" width="49%" alt="Thiago Costa commit by time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thi-costa&theme=solarized_dark"/></a>
+  </p>
 
 </div>
  
@@ -42,17 +43,18 @@
   </br>
 </div>
 
-# Todoist Stats
+## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  50 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1 tasks so far           
-⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
+
+
+## Recent Activity
+<!--START_SECTION:activity-->
+
  
-  ## 🗣️ Contact me 📩
+## 🗣️ Contact me 📩
   
  <div> 
   <a href = "mailto:thiago14abr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
