@@ -1,6 +1,6 @@
 ## 👱🏻‍♂️ Hi! I am Thiago! 👋
 
--   🎓 Graduating in System Analysis and Development at UNINTER
+-   🎓 Graduated in System Analysis and Development
 -   📜 Enrolled in Master Degree in Strucutral Engineering at USP (theme: Numerical Calculus with AI)
 -   📚 I'm currently developing myself in nodeJS
 -   🧑🏻‍💻 Open to work remotely as internship, junior developer or as web developer freelancer
