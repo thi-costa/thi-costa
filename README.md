@@ -43,25 +43,10 @@
   </br>
 </div>
 
-## Todoist Stats
-
-<!-- TODO-IST:START -->
-🏆  3,778 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 156 tasks so far           
-⏳  Longest streak is 3 days
-<!-- TODO-IST:END -->
-
 
  
 ## 🗣️ Contact me 📩
   
  <div> 
-  <a href = "mailto:thiago14abr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-da-silva-costa-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=thi-costa" target="_blank"></a>  
 </div>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=thi-costa.visitor-badge&left_color=green&right_color=blue)
-
-
-![snake gif](https://github.com/thi-costa/thi-costa/blob/output/github-contribution-grid-snake.svg)
